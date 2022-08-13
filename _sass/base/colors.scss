@@ -6,9 +6,12 @@
 */
 
 $color_violet: #5142FF;
+$color_discord_dark: #37393F;
 
 .color-white    { color: #ffffff; }
-.color-violet { color: $color_refresh_blue; }
+.color-violet { color: $color_violet; }
+.color-dis-dark { color: $color_discord_dark; }
 
 .bg-color-white    { background-color: #ffffff; }
 .bg-color-violet   { background-color: $color_violet; }
+.bg-color-dis-dark { background-color: $color_discord_dark; }
